@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+#cabecalho {
+    background-color: #e01313;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+.noticia{
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    transition: box-shadow 0.3s;
+    display: flex;
+    gap: 10px;
+}
+
+h2 {
+    color: #e01313;
+}
+
+p {
+    line-height: 1.6;
+}
+
+a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #666;
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    padding: 20px;
+}
+
+.content {
+    padding: 20px;
+    width: 50%;
+}
+
+.corpo{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+img{
+    text-align: center;
+    border-radius: 2%;
+}
+
+.centerr{
+    text-align: center;
+}
